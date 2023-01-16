@@ -13,3 +13,5 @@ The largest Calculator Prime found so far is
 This was found using the Collins Scrabble Dictionary 2019.
 
 Note: It's not clear whether words ending in "O" - that is, numbers starting with zero should be allowed. But this does not affect the current highest known _Calculator Prime_.
+
+![Upside Down Calculator showing the word ELIGIBLES](calc.jpeg "")
